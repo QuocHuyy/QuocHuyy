@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&text=I%20am%20Gojo%20Satoru!&height=200&section=header&fontSize=50"/>
 </p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+![221213](https://github.com/user-attachments/assets/ec939206-75c1-4106-b881-9b4869f3ee15)
 
 # Hi there, I'm [Your Name] 👋
 
