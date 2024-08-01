@@ -6,9 +6,9 @@
   Let's Connect and have a Chat!💬
 </h1>
 
-<p align='center'>
-![221213](https://github.com/user-attachments/assets/ec939206-75c1-4106-b881-9b4869f3ee15)
-</p>
+<div align="center">
+	<img src="[https://i.imgur.com/8BgVXcY.png](https://github.com/user-attachments/assets/ec939206-75c1-4106-b881-9b4869f3ee15)">
+</div>
 
 # Hi there, I'm [Your Name] 👋
 
