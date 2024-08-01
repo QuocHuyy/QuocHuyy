@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="![221213](https://github.com/user-attachments/assets/7937bdd7-83e3-4b0f-b4ac-0567878a239d)">
+  <img src="Gojo.gif"/>
 </p>
 
 # Hi there, I'm [Your Name] 👋
