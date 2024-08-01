@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**QuocHuyy/QuocHuyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a [Your Role] specialized in [Your Specialization]. I love working on projects involving [Specific Interest].
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [Your Project]
+- 🌱 I’m currently learning: [New Technology or Skill]
+- 💬 Ask me about: [Your Expertise]
+- 📫 How to reach me: [Your Email or Social Media]
+- ⚡ Fun fact: [A Fun Fact About You]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming Languages: [Python, JavaScript, etc.]
+- Frameworks & Libraries: [TensorFlow, PyTorch, etc.]
+- Tools & Platforms: [GitHub, Docker, etc.]
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
+- Blog: [Your Blog](https://yourblog.com)
