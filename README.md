@@ -90,4 +90,4 @@ hobbies: ["Gaming", "Cinema", "Anime", "Judo"]
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-![snake animation](https://github.com/QuocHuyy/QuocHuyy/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://raw.githubusercontent.com/QuocHuyy/QuocHuyy/output/github-contribution-grid-snake-dark.svg)
