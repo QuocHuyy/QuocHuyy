@@ -86,8 +86,10 @@ hobbies: ["Gaming", "Cinema", "Anime", "Judo"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+-->
 
 ![Snake animation](https://raw.githubusercontent.com/QuocHuyy/QuocHuyy/output/github-contribution-grid-snake-dark.svg)
